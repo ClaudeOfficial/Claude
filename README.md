@@ -59,10 +59,10 @@ class Claude:
 <div align="center">
 
 <a href="https://github.com/ClaudeOfficial/Claude/tree/main/claude/constitutional-ai"><img src="assets/pin-constitutional-ai.svg" height="150"/></a>
-<a href="../claude-code"><img src="assets/pin-claude-code.svg" height="150"/></a>
+<a href="https://github.com/ClaudeOfficial/Claude/tree/main/claude/claude-code"><img src="assets/pin-claude-code.svg" height="150"/></a>
 <br/>
-<a href="../model-context-protocol"><img src="assets/pin-model-context-protocol.svg" height="150"/></a>
-<a href="../red-team-eval-harness"><img src="assets/pin-red-team-eval-harness.svg" height="150"/></a>
+<a href="https://github.com/ClaudeOfficial/Claude/tree/main/claude/model-context-protocol"><img src="assets/pin-model-context-protocol.svg" height="150"/></a>
+<a href="https://github.com/ClaudeOfficial/Claude/tree/main/claude/red-team-eval-harness"><img src="assets/pin-red-team-eval-harness.svg" height="150"/></a>
 
 </div>
 
