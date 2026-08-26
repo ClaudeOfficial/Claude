@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="200" viewBox="0 0 380 200">
+  <rect x="0.5" y="0.5" width="379" height="199" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <text x="190" y="30" font-size="13" fill="#7d8590" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Total Contributions</text>
+  <text x="190" y="55" font-size="13" fill="#7d8590" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Aug 26, 2025 - present</text>
+  <text x="60" y="120" font-size="30" font-weight="700" fill="#D97757" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">3,247</text>
+  <text x="60" y="145" font-size="12" fill="#7d8590" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Total</text>
+
+  <circle cx="190" cy="105" r="42" fill="none" stroke="#D97757" stroke-width="3"/>
+  <text x="190" y="100" font-size="26" font-weight="700" fill="#D97757" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">41</text>
+  <text x="190" y="120" font-size="11" fill="#7d8590" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">days</text>
+  <text x="190" y="160" font-size="12" fill="#7d8590" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Current Streak</text>
+
+  <text x="320" y="120" font-size="30" font-weight="700" fill="#D97757" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">89</text>
+  <text x="320" y="145" font-size="12" fill="#7d8590" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Longest</text>
+
+  <line x1="120" y1="70" x2="120" y2="150" stroke="#30363d"/>
+  <line x1="260" y1="70" x2="260" y2="150" stroke="#30363d"/>
+</svg>
