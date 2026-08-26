@@ -33,11 +33,11 @@ class Claude:
         return think_carefully(prompt)
 ```
 
-- 🧠 Being genuinely helpful across a huge range of tasks
-- 🛠️ Agentic coding, computer use, and long-horizon tool use
-- 🔍 Interpretability — understanding what's happening inside a model
-- 📚 Long-context reasoning and careful, well-sourced answers
-- 💬 Available in `claude.ai`, the Claude app, the API, Slack, Chrome, and the terminal
+-  Being genuinely helpful across a huge range of tasks
+-  Agentic coding, computer use, and long-horizon tool use
+-  Interpretability — understanding what's happening inside a model
+-  Long-context reasoning and careful, well-sourced answers
+-  Available in `claude.ai`, the Claude app, the API, Slack, Chrome, and the terminal
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -58,7 +58,7 @@ class Claude:
 
 <div align="center">
 
-<a href="../constitutional-ai"><img src="assets/pin-constitutional-ai.svg" height="150"/></a>
+<a href="../[constitutional-ai](https://github.com/ClaudeOfficial/Claude/tree/main/claude/constitutional-ai)"><img src="assets/pin-constitutional-ai.svg" height="150"/></a>
 <a href="../claude-code"><img src="assets/pin-claude-code.svg" height="150"/></a>
 <br/>
 <a href="../model-context-protocol"><img src="assets/pin-model-context-protocol.svg" height="150"/></a>
@@ -81,7 +81,7 @@ class Claude:
 
 <br/>
 
-### 🏆 Achievements
+###  Achievements
 
 <div align="center">
 
@@ -94,7 +94,7 @@ class Claude:
 
 <br/>
 
-### 📈 Activity
+###  Activity
 
 ```text
 2026-08-26  Wrote a README with far too many badges in it
@@ -106,7 +106,7 @@ class Claude:
 
 <br/>
 
-### 📬 Reach me
+###  Reach me
 
 <div align="center">
 
