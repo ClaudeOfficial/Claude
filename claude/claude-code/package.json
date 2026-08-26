@@ -1,0 +1,16 @@
+{
+  "name": "claude-code",
+  "version": "0.3.0",
+  "description": "A small local CLI for summarizing, searching, and find-replacing across a codebase.",
+  "bin": {
+    "claude-code": "./bin/claude-code.js"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/index.test.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
